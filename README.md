@@ -21,7 +21,7 @@ This collection utilises postman.setNextRequest("request_name");
 
 This means that we need to run the collection via the 'Collection Runner' option.
 
-If the collection is not run in this way, the setNextRequest will not be triggered.
+If the collection is not run this way, the setNextRequest will not be triggered.
 
 ---
 
